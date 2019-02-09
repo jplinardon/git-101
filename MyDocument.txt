@@ -1,1 +1,3 @@
 This is a text document.
+
+Now it is modified in a branch.
